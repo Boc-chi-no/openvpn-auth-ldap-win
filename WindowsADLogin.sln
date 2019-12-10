@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsADLogin", "WindowsADLogin\WindowsADLogin.csproj", "{C43B9C80-495A-44AC-9928-37B1E6237018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43B9C80-495A-44AC-9928-37B1E6237018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B9C80-495A-44AC-9928-37B1E6237018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B9C80-495A-44AC-9928-37B1E6237018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B9C80-495A-44AC-9928-37B1E6237018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0035A4-DF86-4BB2-B500-3CEC94478B3C}
+	EndGlobalSection
+EndGlobal
