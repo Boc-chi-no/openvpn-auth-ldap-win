@@ -5,7 +5,7 @@ Implements username/password authentication via LDAP for Windows openvpn Server
 ### Features
 
   * User authentication against LDAP.
-  * Simple Apache-style configuration file.
+  * Simple XML-style configuration file.
   * LDAP group-based access restrictions.
   * the plugin Can be authenticated through Active Directory.
   
