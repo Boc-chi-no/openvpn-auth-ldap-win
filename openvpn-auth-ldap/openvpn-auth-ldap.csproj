@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C43B9C80-495A-44AC-9928-37B1E6237018}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WindowsADLogin</RootNamespace>
-    <AssemblyName>WindowsADLogin</AssemblyName>
+    <RootNamespace>OpenvpnAuthLdap</RootNamespace>
+    <AssemblyName>openvpn-auth-ldap</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
