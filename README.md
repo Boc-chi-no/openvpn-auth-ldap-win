@@ -19,3 +19,7 @@ auth-user-pass-verify openvpn-auth-ldap.exe via-env
 ```
 
 You need to modify the configuration file <openvpn-auth-ldap.exe.config>
+
+## Document
+  Document is only available in Chinese
+  https://mc.lioat.cn/2019/12/0055133.xhtml
