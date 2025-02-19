@@ -35,6 +35,6 @@ Password: Password for this user (InheritanceDetection is True only)
 
 ## Document
   Document is only available in Chinese
-  https://mc.lioat.cn/2019/12/0055133.xhtml
+  https://global.lioat.cn/2019/12/0055133.xhtml
   
 Please help me translate and improve README
